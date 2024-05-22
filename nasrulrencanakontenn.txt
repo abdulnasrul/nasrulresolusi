@@ -3,9 +3,11 @@ rencana konten nasrull
 - javascript
 * es6
 * frameworks javascript
-  'angular
+  'vue
   'react
+- struktur data dasar
 - php framworks
-  'larevel
+  'laravel
 - interview
 - vlog
+- python
