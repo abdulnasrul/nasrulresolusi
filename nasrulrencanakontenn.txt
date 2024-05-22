@@ -3,6 +3,7 @@ rencana konten nasrull
 - javascript
 * es6
 * frameworks javascript
+- struktur data dasar
 - php framworks
 - interview
 - vlog
