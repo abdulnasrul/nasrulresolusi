@@ -1,0 +1,8 @@
+rencana konten nasrull
+
+- javascript
+* es6
+* frameworks javascript
+- php framworks
+- interview
+- vlog
