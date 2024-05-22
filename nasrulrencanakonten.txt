@@ -1,6 +1,1 @@
-rencana konten nasrul
 
-- javascript
-- php framworks
-- interview
-- vlog
